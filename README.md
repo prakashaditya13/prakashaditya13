@@ -4,7 +4,7 @@
 
 **JavaScript** | **Flutter** | **ReactJS** | **NodeJS** | **Kotlin**
 
-![banner](https://media-exp1.licdn.com/dms/image/C5616AQHSBaIr7z0rxQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1612396800&v=beta&t=57gZIwuCMyi7cObLys9ncchRxgCM7STyKy2bW7UA7Sk)
+![banner](https://media-exp1.licdn.com/dms/image/C5616AQHSBaIr7z0rxQ/profile-displaybackgroundimage-shrink_350_1400/0/1593692612960?e=1618444800&v=beta&t=7zoS68qa8f-l98I9vuND3pww9ZNzQdh3xw5jtFMQQP0)
 
 **Find me on the Web World** :earth_asia:
 
